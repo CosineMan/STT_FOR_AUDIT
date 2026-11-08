@@ -1,2 +1,0 @@
-uploads/** filter=lfs diff=lfs merge=lfs -text
-OfflineSTT-V3-Windows-CPU/** filter=lfs diff=lfs merge=lfs -text
